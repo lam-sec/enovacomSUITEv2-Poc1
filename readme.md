@@ -25,7 +25,7 @@ No mechanism appears to restrict file path access, which allows a malicious user
 The following screenshot shows the manipulation of the log loading request, by adding a path to configuration files, as well as the display of the file contents in the server’s response.  
 
 ![enovacom version](1.png)  
-![PoC Screenshot 1](1.png)  
+![PoC Screenshot 1](3.png)  
 ![PoC Screenshot 2](2.png) 
 
 
